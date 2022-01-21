@@ -1,0 +1,21 @@
+﻿  Game.cpp
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(40,9): error C3646: 'BOY': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(40,12): error C3646: 'BE': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C3646: 'PERFECT': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\neil8\Documents\Coding Practice\Splendor\Game.h(23,30): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(40,9): error C3646: 'BOY': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(40,12): error C3646: 'BE': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C3646: 'PERFECT': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  main.cpp
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(40,9): error C3646: 'BOY': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(40,12): error C3646: 'BE': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C3646: 'PERFECT': unknown override specifier
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\neil8\Documents\Coding Practice\Splendor\Player.h(54,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\neil8\Documents\Coding Practice\Splendor\Game.h(23,30): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
